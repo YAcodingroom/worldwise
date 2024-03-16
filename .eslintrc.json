@@ -1,0 +1,8 @@
+{
+	// 要先繼承 react-app 裡面原本的規則
+	"extends": ["react-app"],
+	// 新增自己的規則 react/prop-types
+	"rules": {
+		"react/prop-types": "warn"
+	}
+}
